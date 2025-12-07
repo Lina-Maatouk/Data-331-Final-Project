@@ -316,4 +316,4 @@ shinyApp(ui = ui, server = server)
 
 # Authors
 
-Lina Maatouk, Hildana Teklegiorgis, Eyoel Mulugeta
+Hildana Teklegiorgis, Lina Maatouk,  Eyoel Mulugeta
